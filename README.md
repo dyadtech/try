@@ -8,7 +8,7 @@ or
 drop gopkg.in/matryer/try.v1
 ```
 
-* Learn more about [Drop](https://github.com/matryer/drop)
+* Learn more about [Gimme](https://github.com/matryer/gimme)
 
 ### Usage
 
