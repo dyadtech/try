@@ -1,4 +1,4 @@
-module try
+module github.com/matryer/try
 
 go 1.14
 
