@@ -6,8 +6,9 @@ import (
 	"log"
 	"testing"
 
+	"try"
+
 	"github.com/cheekybits/is"
-	"github.com/matryer/try"
 )
 
 func TestTryExample(t *testing.T) {
